@@ -1,2 +1,0 @@
-# SSF
-Created with CodeSandbox
